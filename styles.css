@@ -1,0 +1,20 @@
+table, tr, td {
+    border: 1px solid black;
+}
+
+#table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+#table_title {
+    text-align: center;
+}
+
+.subcolumn {
+    text-align: center;
+}
+
